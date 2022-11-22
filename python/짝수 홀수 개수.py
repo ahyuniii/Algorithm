@@ -1,5 +1,6 @@
 # 문제
-# 정수가 담긴 num_list가 주어질때, num_list의 원소 중 짝수와 홀수의 개수를 담은 배열을 return하는 함수.
+# 정수가 담긴 num_list가 주어질때,
+#  num_list의 원소 중 짝수와 홀수의 개수를 담은 배열을 return하는 함수.
 
 # 2022.11.21.
 def solution(num_list):
