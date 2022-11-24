@@ -7,7 +7,7 @@ def solution(strlist):
     answer = []
     i = 0
     while(i < len(strlist)):
-        answer.append(len(strlist[]))
+        answer.append(len(strlist[i]))
         i += 1
     return answer
 
