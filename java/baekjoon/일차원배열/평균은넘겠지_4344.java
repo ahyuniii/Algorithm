@@ -29,8 +29,5 @@ public class 평균은넘겠지_4344 {
 			//double avg_Over = (double) n / N * 100;
 			System.out.printf("%.3f%%\n", (double) n / N * 100);
 		}
-		
-
 	}
-
 }
