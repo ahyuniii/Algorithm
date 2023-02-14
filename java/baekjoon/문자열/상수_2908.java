@@ -12,8 +12,10 @@ public class 상수_2908 {
 //		int a = Integer.parseInt(input.readLine());
 //		int b = Integer.parseInt(input.readLine());
 //		
+	
 //		int one = a / 100;
 //		int ten = (a - one * 100) / 10;
+//		int hun = a - one * 100 - ten * 10;
 		
 	}
 
