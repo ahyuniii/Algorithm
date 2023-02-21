@@ -1,6 +1,6 @@
 package 함수;
 
-class 정수N개의합_15596 {
+class NY정수N개의합_15596 {
 	
 	long sum(int[] a) {
 		long sum = 0;

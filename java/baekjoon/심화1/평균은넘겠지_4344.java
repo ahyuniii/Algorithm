@@ -1,4 +1,4 @@
-package 일차원배열;
+package 심화1;
 
 import java.util.Scanner;
 

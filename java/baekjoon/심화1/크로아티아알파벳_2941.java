@@ -1,4 +1,4 @@
-package 문자열;
+package 심화1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
