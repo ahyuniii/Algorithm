@@ -8,7 +8,10 @@ public class 그룹단어체커_1316 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
 		
+		
+		
 		int n = Integer.parseInt(input.readLine()); // n = 입력되는 단어 개수
+		
 		
 //		int count = 0; // count = 그룹단어 개수
 //		for(int i = 0; i < n; i++) {
